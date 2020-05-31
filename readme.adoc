@@ -7,7 +7,10 @@ image:https://img.shields.io/github/license/Vulpine-IO/Iffy[]
 
 Indecisive `Either` types for java.
 
-Mirrors the `Optional` API.
-
-[]
+[source, java]
+----
+Either<String, Integer> foo = Either.ofLeft("Hello");
+Either<Integer, Integer> bar = foo.mapLeft(Integer::parseInt);
+float fizz = bar.fold(Float.class::cast, Float.class::cast);
+----
 
