@@ -1,7 +1,13 @@
 = Iffy
 
+image:https://img.shields.io/badge/java-14-red[]
+image:https://img.shields.io/maven-central/v/io.vulpine.lib/iffy[Maven Central, link="https://search.maven.org/search?q=g:io.vulpine.lib%20AND%20a:iffy"]
+image:https://img.shields.io/badge/docs-javadoc-ff69b4["Java Docs", link="https://vulpine-io.github.io/Iffy/javadoc/"]
+image:https://img.shields.io/github/license/Vulpine-IO/Iffy[]
+
 Indecisive `Either` types for java.
 
 Mirrors the `Optional` API.
 
+[]
 
