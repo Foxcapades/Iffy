@@ -12,7 +12,7 @@ object Project {
   val name = "Iffy"
   val description = "Either type for Java"
   val group = "io.vulpine.lib"
-  val version = "1.0.0"
+  val version = "1.0.1"
   val site = "https://github.com/Vulpine-IO/Iffy"
   val issues = "https://github.com/Vulpine-IO/Iffy/issues"
   val license = "MIT"

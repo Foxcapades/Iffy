@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"m":"io.vulpine.lib.iffy","l":"io.vulpine.lib.iffy"},{"m":"io.vulpine.lib.iffy","l":"io.vulpine.lib.iffy.impl"}]

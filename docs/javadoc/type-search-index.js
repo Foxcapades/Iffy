@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"io.vulpine.lib.iffy.impl","l":"BasicEither"},{"p":"io.vulpine.lib.iffy.impl","l":"BasicProvider"},{"p":"io.vulpine.lib.iffy","l":"Either"},{"p":"io.vulpine.lib.iffy","l":"EitherFactory"},{"p":"io.vulpine.lib.iffy","l":"EitherProvider"},{"p":"io.vulpine.lib.iffy","l":"EitherUnwrapException"}]

@@ -45,6 +45,7 @@ publishing {
   }
   publications {
     create<MavenPublication>("maven") {
+      from(components["java"])
       pom {
         name.set(Project.name)
         description.set(Project.description)

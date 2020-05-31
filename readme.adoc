@@ -1,0 +1,7 @@
+= Iffy
+
+Indecisive `Either` types for java.
+
+Mirrors the `Optional` API.
+
+
